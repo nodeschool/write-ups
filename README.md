@@ -3,6 +3,8 @@ A place for putting write-ups of past NodeSchool events
 
 After running or attending a NodeSchool, you should put a write up here of how it went. This will help us see what other NodeSchools are like, how the community is being engaged elsewhere, and to help identify best practices and common pitfalls for future events. 
 
+This repository was born out of a discussion in [this issue](https://github.com/nodeschool/organizers/issues/209).
+
 ## How to make a write up
 
 Open an issue, and put your write up as the first comment. Label the issue with 'writeup'.
